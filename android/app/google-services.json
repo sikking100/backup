@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714371094516",
+    "firebase_url": "https://iphonecare-422f5.firebaseio.com",
+    "project_id": "iphonecare-422f5",
+    "storage_bucket": "iphonecare-422f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714371094516:android:3ba94cff21e2c3d3414ba1",
+        "android_client_info": {
+          "package_name": "com.example.localnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714371094516-vuamtanvje0dc2q544tj9q681jj4g3ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localnotif",
+            "certificate_hash": "4fc4a7fbe7170c4331addfa89f7c4034039d4722"
+          }
+        },
+        {
+          "client_id": "714371094516-a2vev02f4dn4emnutkrb3e6evva4aa36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCDMZovAGai8_kUL93h-Zxr4kFozDvfeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714371094516-a2vev02f4dn4emnutkrb3e6evva4aa36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714371094516-nhpc48jhibcqo2og5qkk40jk28g1g5he.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesIos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
